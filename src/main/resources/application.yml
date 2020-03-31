@@ -1,0 +1,10 @@
+server:
+  port: 8762
+
+amazon:
+  access:
+    key: username
+    secret-key: password
+  region: region-aws # sa-east-1 (São Paulo)
+  end-point:
+    url: http://localhost:8000/
